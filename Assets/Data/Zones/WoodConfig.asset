@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a937842b1da1cc46826ff346340615c, type: 3}
+  m_Name: WoodConfig
+  m_EditorClassIdentifier: 
+  zoneName: WoodZone
+  uiParentPrefab: {fileID: 6227261333941641732, guid: 44a6433b8639c44458ff3bd6a0886779, type: 3}
+  producers:
+  - {fileID: 11400000, guid: c41ae3a287481264eab5c60af3fc1b9e, type: 2}
