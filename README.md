@@ -1,8 +1,8 @@
-# 🏭 Idle Factory Tycoon – Unity Case Projesi
+#  Idle Factory Tycoon – Unity Case Projesi
 
 Bu proje, Unity kullanılarak geliştirilmiş bir Idle Factory oyun sistemidir. Proje, verilen case dokümanına göre tüm temel ve bazı bonus sistemleri başarıyla içermektedir.
 
-## 🚀 Özellikler
+## Özellikler
 
 ### ✅ Zorunlu Sistemler
 - **Click to Earn:** Ana makineye tıklayarak gelir elde etme
@@ -12,11 +12,11 @@ Bu proje, Unity kullanılarak geliştirilmiş bir Idle Factory oyun sistemidir. 
 - **Visual Feedback:** Coin efekti, üretim barı, popup kazanç animasyonu
 - **Modülerlik:** Yeni zone ve üretici kolayca eklenebilir
 
-### 🎁 Bonuslar
+###  Bonuslar
 - **Offline Progress Sistemi:** Oyuncu oyunda değilken bile üretim devam eder
 - **Editor Tool:** `ProducerData` ScriptableObject’lerini yöneten özel editör aracı
 
-## 🧩 Proje Yapısı
+## Proje Yapısı
 
 ```
 Assets/
@@ -32,7 +32,7 @@ Assets/
 │   └── ProducerData/  → Tüm üretici verileri burada
 ```
 
-## 🛠️ Kurulum
+## Kurulum
 
 1. Unity 2021.3+ ile açın  
 2. Scene: `MainScene`  
@@ -48,7 +48,7 @@ Assets/
 - UI sistemleri mobil uyuma uygundur.
 - Gereken her şey `Resources` klasörüne düzenli şekilde yerleştirilmiştir.
 
-## 👨‍💻 Geliştirici
+##  Geliştirici
 
 > Bu proje case kapsamında tarafımdan geliştirilmiştir.  
 > Gelişime açık olan kısımlar için yorumlarınız değerli olacaktır.
